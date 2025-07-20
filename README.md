@@ -1,5 +1,3 @@
-# capstone-network-project
-
 # Network Engineering Capstone Project
 
 This repository contains my final capstone report for the B.S. in Network Engineering and Security at WGU.
