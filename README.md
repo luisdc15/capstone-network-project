@@ -1,4 +1,4 @@
-# 🧠 WGU Capstone: Enterprise Network Simulation (Cisco Packet Tracer)
+# WGU Capstone: Enterprise Network Simulation (Cisco Packet Tracer)
 
 This project was developed as the final capstone for the **B.S. in Network Engineering and Security** at **Western Governors University**.  
 It simulates an enterprise-grade network for a fictional company — **TrueCover Insurance Solutions** — using **Cisco Packet Tracer**, based on real-world networking principles and security standards.
@@ -10,7 +10,7 @@ The network must maintain **reliable access**, **strong segmentation**, **redund
 
 ---
 
-## ✅ Project Features
+## Project Features
 
 The network design satisfies all **10 required test cases** listed below.
 
@@ -29,7 +29,7 @@ The network design satisfies all **10 required test cases** listed below.
 
 ---
 
-## 🧰 Technologies Used
+## Technologies Used
 
 - **Cisco Packet Tracer**
 - VLANs, Inter-VLAN Routing, DHCP
@@ -41,7 +41,7 @@ The network design satisfies all **10 required test cases** listed below.
 
 ---
 
-## 📄 Files Included
+## Files Included
 
 - `Capstone Functionality Report Packet Tracer.pdf` – full technical report with configuration proof, test case mapping, and validation screenshots.
 
