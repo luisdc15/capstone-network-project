@@ -41,7 +41,9 @@ The network design satisfies all **10 required test cases** listed below.
 
 ---
 
-## Files Included
+## 📄 Files Included
 
-- `Capstone Functionality Report Packet Tracer.pdf` – full technical report with configuration proof, test case mapping, and validation screenshots.
+- `Capstone_Network_Design_LuisAndrade.pkt` – fully configured Packet Tracer project with VLANs, ACLs, DHCP, EtherChannel, etc.
+- `Capstone_Report_LuisAndrade.pdf` – written report detailing the project scope, configuration, and test case validation.
+
 
